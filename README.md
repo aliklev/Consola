@@ -1,6 +1,7 @@
 # ConSola - Norton Commander Clone
 
 A modern C# console file manager built with .NET 9 using **Hexagonal Architecture**.
+![image](https://github.com/user-attachments/assets/919040a0-816e-47e6-9bc6-815082fa7804)
 
 ## Architecture
 
